@@ -1,0 +1,15 @@
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\bin\Release\net6.0\Kotaeawase.exe
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\bin\Release\net6.0\Kotaeawase.deps.json
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\bin\Release\net6.0\Kotaeawase.runtimeconfig.json
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\bin\Release\net6.0\Kotaeawase.dll
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\bin\Release\net6.0\Kotaeawase.pdb
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\obj\Release\net6.0\Kotaeawase.csproj.AssemblyReference.cache
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\obj\Release\net6.0\Kotaeawase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\obj\Release\net6.0\Kotaeawase.AssemblyInfoInputs.cache
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\obj\Release\net6.0\Kotaeawase.AssemblyInfo.cs
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\obj\Release\net6.0\Kotaeawase.csproj.CoreCompileInputs.cache
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\obj\Release\net6.0\Kotaeawase.dll
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\obj\Release\net6.0\refint\Kotaeawase.dll
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\obj\Release\net6.0\Kotaeawase.pdb
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\obj\Release\net6.0\Kotaeawase.genruntimeconfig.cache
+C:\Users\ShoTa\source\repos\ShoTakesako\Kotaeawase\Kotaeawase\Kotaeawase\obj\Release\net6.0\ref\Kotaeawase.dll
