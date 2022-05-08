@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7dz0osLF1NhPpRnil/BvyEfhSXOt3Yvsxfc3kszCULfGK1b5Zdqb8syoV3sGjFP0ESoW1soHos25giJ8ama2mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ShoTa\\source\\repos\\ShoTakesako\\Kotaeawase\\Kotaeawase\\Kotaeawase\\Kotaeawase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShoTa\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.4\\microsoft.netcore.app.runtime.linux-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\ShoTa\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.4\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\ShoTa\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.4\\microsoft.netcore.app.host.linux-x64.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
